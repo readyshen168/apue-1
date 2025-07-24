@@ -18,3 +18,6 @@
 
 # macOS特有文件
 .DS_Store
+
+# gcc编译器产生的调试文件
+*.dSYM/

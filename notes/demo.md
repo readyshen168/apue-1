@@ -1,3 +1,5 @@
 # demo
 
-[[code/intro/hello.c]]
+[[hello.c]]
+
+[[demo.c]]
