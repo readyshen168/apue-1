@@ -1,0 +1,11 @@
+{
+  "files.associations": {
+    "*.md": "markdown",
+    "*.c": "c",
+    "*.h": "c"
+  },
+  "foam.files.includeGlobs": ["**/*.md", "**/*.c", "**/**/*.c"],
+  "foam.files.wikilinkCommentTypes": {
+    "c": "//"
+  }
+} // TODO:XXX
